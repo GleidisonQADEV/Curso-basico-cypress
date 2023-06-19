@@ -4,7 +4,7 @@
 
 # Instalar o Cypress
     npm install -D cypress
-    npm onstall -D cypress@12.5.0
+    npm install -D cypress@12.5.0
 
 # Abrir o Cypress
     npx cypress open
