@@ -19,10 +19,11 @@ Comndo para instalar uma versão expecifica
 Comandos para abrir o cypress e rodar os testes
 
     npx cypress open
-    
+
     npx cypress run
 
 **Curso-basico-cypress**
 
 Curso feito pelo site agilizei
+
 link: [Cypress direto ao ponto](https://app.agilizei.com/pt/cursos/cypress-direto-ao-ponto)
