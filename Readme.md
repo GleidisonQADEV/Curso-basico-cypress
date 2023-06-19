@@ -7,7 +7,7 @@ Comnado iniciar o projeto
     npm init --yes
 
 **Instalar o Cypress**
-Comando para instalar o Cypress com uma versão expecifica
+    npm install -D cypress
     npm install -D cypress@12.5.0
 
 **Abrir o Cypress**
