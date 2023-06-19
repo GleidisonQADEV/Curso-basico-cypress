@@ -14,7 +14,7 @@ describe('Transações', () => {
     it('Cadastrar uma entrada', () => {
         
         criarTransação("Freelance", 550)
-
+        
         // Assert
         cy.get('tbody tr td.description').should("have.text", "Freelance")
     });
